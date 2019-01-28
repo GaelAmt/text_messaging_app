@@ -1,0 +1,16 @@
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\obj\Debug\Projet_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\Projet_CSharp.exe.config
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\Projet_CSharp.exe
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\Projet_CSharp.pdb
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\obj\Debug\Projet_CSharp.exe
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\obj\Debug\Projet_CSharp.pdb
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\MySql.Data.dll
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\MySql.Data.Entity.dll
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\MySql.Web.dll
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\bin\Debug\MySql.Data.xml
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\obj\Debug\Projet_CSharp.csproj.CopyComplete
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\obj\Debug\Projet_CSharp.csprojAssemblyReference.cache
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\obj\Debug\Projet_CSharp.Account.Login_Form.resources
+C:\Users\gaela\source\repos\Projet_CSharp\Projet_CSharp\obj\Debug\Projet_CSharp.csproj.GenerateResource.cache
